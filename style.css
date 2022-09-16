@@ -15,10 +15,12 @@ h1 {
 
 .textos {
 	background: white;
+	font-size: medium;
 }
 
 p {
 	text-align: center;
+	font-size: medium;
 }
 
 
